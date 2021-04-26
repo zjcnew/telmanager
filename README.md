@@ -7,10 +7,13 @@
 * 中兴ZXHN F450
 ## 使用方法 
 1.安装Python3
+
 2.安装库
+
 `
 pip3 install --trusted-host mirrors.aliyun.com -i http://mirrors.aliyun.com/pypi/simple/ requests lxml
 `
+
 3.下载telmanager.py脚本到本地，末尾修改参数（查阅光猫背面信息）
 
 `
