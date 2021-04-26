@@ -13,14 +13,18 @@ pip3 install --trusted-host mirrors.aliyun.com -i http://mirrors.aliyun.com/pypi
 `
 
 3.下载telmanager.py脚本到本地，末尾修改参数（查阅光猫背面信息）
+
 `
 logger = Logger(sys.path[0] + '/' + 'telmanager.log') # 定义输出日志的文件
 mo = MO('192.168.1.1') # 光猫地址
 mo.login('useradmin', '2DJFP') # 光猫登录帐号与密码
 `
+
 4.执行脚本
+
 `
 python telmanager.py
 `
+
 5.查看日志文件内容
 欢迎反馈，提供其他型号设备的测试结果。
