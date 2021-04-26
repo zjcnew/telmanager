@@ -25,5 +25,5 @@ mo.login('useradmin', '2DJFP') # 光猫登录帐号与密码
 python telmanager.py
 ```
 5.查看日志文件内容
-6.
+![avatar](/20210426114120.png)
 欢迎反馈，提供其他型号设备的测试结果。
