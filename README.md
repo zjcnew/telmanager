@@ -7,6 +7,9 @@
 * 中兴ZXHN F450
 ## 使用方法 
 1.安装Python3
+```
+https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe
+```
 2.安装库
 ```
 pip3 install --trusted-host mirrors.aliyun.com -i http://mirrors.aliyun.com/pypi/simple/ requests lxml
